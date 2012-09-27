@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_product_price_from'
-  s.version     = '1.2.0'
+  s.version     = '1.2.1'
   s.summary     = 'Adds a price from method to products'
   s.description = 'Price from finds the lowest variant price in the product'
   s.required_ruby_version = '>= 1.9.2'
